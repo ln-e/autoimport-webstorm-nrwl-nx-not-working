@@ -25,6 +25,12 @@
     "lolkek-e2e": {
       "tags": [],
       "implicitDependencies": ["lolkek"]
+    },
+    "liba1": {
+      "tags": []
+    },
+    "liba2": {
+      "tags": []
     }
   }
 }

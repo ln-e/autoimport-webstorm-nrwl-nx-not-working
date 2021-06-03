@@ -14,7 +14,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@lolkek/liba1": ["libs/liba1/src/index.ts"],
+      "@lolkek/liba2": ["libs/liba2/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
